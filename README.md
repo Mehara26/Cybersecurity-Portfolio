@@ -10,7 +10,7 @@ Interested in security operations, detection and incident response.
 LinkedIn: https://www.linkedin.com/in/senuri-mehara-bb46b7245
 
 Projects:
-Project - ITECH1502 Final Project: Vulnerability Scanning with Nmap, OpenVAS and Nikto	
+Project - Cybersecurity Module(ITECH1502) Final Project: Vulnerability Scanning with Nmap, OpenVAS and Nikto	
 Platform - TryHackMe	
 Focus - Vulnerability scanning, risk rating (CVSS), mitigation	
 Status - In progress
