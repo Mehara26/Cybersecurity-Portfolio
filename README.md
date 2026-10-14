@@ -21,7 +21,7 @@ Frameworks: NIST CSF 2.0 (also CIS Controls and ACSC Essential Eight from course
 Platforms: TryHackMe
 
 Repository structure:
-cybersecurity-portfolio/
+Cybersecurity-portfolio/
 ├── README.md
 └── itech1502-final-project/
     ├── README.md        (project write-up)
