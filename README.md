@@ -1,18 +1,19 @@
 Senuri Mehara | Cybersecurity Portfolio
 
 Bachelor of Information Technology (Cybersecurity) student at Federation University, Australia, working towards a career as a SOC analyst.
-
 This repository collects my hands-on cybersecurity work, reflections and project reports. It is a living portfolio, and I add to it as I learn.
 
 About me:
-Studying cybersecurity at Federation University, Melbourne
+Studying cybersecurity at Federation University, Australia.
 Practising on TryHackMe (identity and access management, endpoint security, SIEM and vulnerability scanning)
-Interested in security operations, detection and incident response
+Interested in security operations, detection and incident response.
 LinkedIn: https://www.linkedin.com/in/senuri-mehara-bb46b7245
 
 Projects:
-Project	Platform	Focus	Status
-ITECH1502 Final Project: Vulnerability Scanning with Nmap, OpenVAS and Nikto	TryHackMe	Vulnerability scanning, risk rating (CVSS), mitigation	In progress
+Project - ITECH1502 Final Project: Vulnerability Scanning with Nmap, OpenVAS and Nikto	
+Platform - TryHackMe	
+Focus - Vulnerability scanning, risk rating (CVSS), mitigation	
+Status - In progress
 
 Skills and tools:
 Scanning and reconnaissance: Nmap, OpenVAS, Nikto
